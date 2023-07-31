@@ -1,0 +1,3 @@
+﻿# Archivos y carpetas que deben ser ignorados por Git
+logs/
+credentials/
